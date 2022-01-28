@@ -1,0 +1,25 @@
+package dublicate_Number_From_array;
+
+public class A {
+	
+	public static void main(String[] args) 
+		
+		{
+		int ar[]= {10,55,45,88,25,35,34,98,45,166,189,99,155,88,888};
+		
+		for(int i=0;i<=ar.length-1;i++)
+		{
+			for(int j=i+1;j<=ar.length-1;j++)
+			{
+		
+			if(ar[i]==ar[j])
+			{
+				System.out.println("Dublicate Number From array:" +ar[i]);
+		}
+		
+		
+		}
+
+		}
+		}
+}
