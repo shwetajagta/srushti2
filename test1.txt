@@ -1,4 +1,4 @@
-package dublicate_Number_From_array;
+package dublicate_Number_From_array;                 //Hie shweta here...I Just want to talk to uhh right now ..Can uhh plz help me out ......
 
 public class A {
 	
